@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes Kochan</h1>
 
-<p align=“right”><(img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif")>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🔭 I’m currently working on **Mobile Developer**
 
