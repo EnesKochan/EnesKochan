@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enes Kochan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align=“right”> <img src=“https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt=“”>
+<p align=“right”> <img src=“https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 - 🔭 I’m currently working on **Mobile Developer**
 
