@@ -1,6 +1,4 @@
-<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
-
-    <dotlottie-player src="https://lottie.host/2cd87920-1bf8-4abd-989a-45ecbb28442b/DlXeYhYlS3.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
+![headgif](https://drive.google.com/file/d/1iiyNghNSza6koOMtTxsD9rjvmkO-Bk07/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Enes Kochan</h1>
 
 - 🔭 I’m currently working on **Mobile Developer**
