@@ -1,4 +1,4 @@
-![MasterHead]([https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif](https://miro.medium.com/v2/resize:fit:828/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif))
+![MasterHead](https://media.tenor.com/zOoVaNGp6IsAAAAd/mario-game.gif)
 <h1 align="center">Hi 👋, I'm Enes Kochan</h1>
 
 - 🔭 I’m currently working on **Mobile Developer**
