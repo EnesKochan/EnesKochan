@@ -1,5 +1,7 @@
 ![headgif]
-<iframe src="https://lottie.host/embed/633135ec-c60e-4029-af74-3e06a287513d/QkNJ2zW92G.json"></iframe>
+<script src="https://unpkg.com/@dotlottie/player-component@latest/dist/dotlottie-player.mjs" type="module"></script> 
+
+    <dotlottie-player src="https://lottie.host/633135ec-c60e-4029-af74-3e06a287513d/QkNJ2zW92G.json" background="transparent" speed="1" style="width: 300px; height: 300px;" loop autoplay></dotlottie-player>
 <h1 align="center">Hi 👋, I'm Enes Kochan</h1>
 
 - 🔭 I’m currently working on **Mobile Developer**
