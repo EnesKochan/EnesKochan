@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mobile Developer**
 
-- 🌱 I’m currently learning **flutter, Swift, Dart**
+- 🌱 I’m currently learning **Swift, flutter, Dart**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/10LVvFg83dbYBoIkcIoOmX8yb-Vi27rD1/view?usp=sharing](https://drive.google.com/file/d/10LVvFg83dbYBoIkcIoOmX8yb-Vi27rD1/view?usp=sharing)
 
